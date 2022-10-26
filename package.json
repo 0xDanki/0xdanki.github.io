@@ -1,7 +1,7 @@
 {
   "name": "mypage",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://0xdanki.github.io",
+  "homepage": "https://0xdanki.github.io",
   "version": "2.0.0",
   "author": {
     "name": "Tin Erispe",
@@ -21,7 +21,7 @@
     "react-loading-skeleton": "^3.1.0",
     "react-router": "^6.3.0",
     "react-router-dom": "^6.4.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "react-typist-component": "^1.0.3",
     "sass": "^1.54.3",
     "typescript": "^4.7.4",
@@ -29,7 +29,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
