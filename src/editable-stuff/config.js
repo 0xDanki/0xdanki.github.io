@@ -6,9 +6,9 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Tin",
+  firstName: "0x",
   middleName: "",
-  lastName: "Erispe",
+  lastName: "Danki",
   message: " Functional and Secure Smart Contracts ",
   icons: [
     {
@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/tin-erispe/",
+      url: "https://www.linkedin.com/in/0xdanki/",
     },
     {
       image: "fa-twitter",
@@ -33,21 +33,21 @@ const mainBody = {
 //b) a link to an hosted image
 //      i.e:profilePictureLink:"www.picturesonline.com/johnDoeFancyAvatar.jpg",
 //c) image in "editable-stuff" directory and use require("") to import here,
-//      i.e: profilePictureLink: require("../editable-stuff/tinerispe.jpg"),
+//      i.e: profilePictureLink: require("../editable-stuff/0xdanki.jpg"),
 //d) If you do not want any picture to be displayed, just leave it empty :)
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://drive.google.com/file/d/1fdCPMizRrNPVQHEG6Zt4VH67mKxQyd7W/view?usp=sharing",
+//         resume: "https://drive.google.com/file/d/1TecNTyKGQFbvsiWgHBnS49vaiLjHC0Zu/view?usp=sharing",
 
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/tinerispe.jpg"),
+  imageLink: require("../editable-stuff/0xdanki.jpg"),
   imageSize: 375,
   message:
-  "I'm Tin, and I've worn many hats as a designer, a digital marketer, and a day trader. But the day I discovered the wonders of blockchain technology, I went down the rabbithole and never looked back. I aim to combine theory, structure, and intuition in my practice of making secure and functional smart contracts.",
-  resume: "https://drive.google.com/file/d/1fdCPMizRrNPVQHEG6Zt4VH67mKxQyd7W/view?usp=sharing",
+  "I'm Danki, and I've worn many hats as a designer, a digital marketer, and a day trader. But the day I discovered the wonders of blockchain technology, I went down the rabbithole and never looked back. I aim to combine theory, structure, and intuition in my practice of making secure and functional smart contracts.",
+  resume: "https://drive.google.com/file/d/1TecNTyKGQFbvsiWgHBnS49vaiLjHC0Zu/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -71,12 +71,12 @@ const leadership = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/tinerispe.jpg"), 
+      img: require("../editable-stuff/0xdanki.jpg"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/tinerispe.jpg"), 
+      img: require("../editable-stuff/0xdanki.jpg"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
@@ -119,7 +119,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for blockchain development and auditing opportunities! If you have a web3 project, know of any positions available, or if you just want to say hi, please feel free to email me at",
-  email: "christineerispe@gmail.com",
+  email: "typepuller@gmail.com",
 };
 
 const experiences = {

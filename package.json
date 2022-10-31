@@ -1,11 +1,11 @@
 {
-  "name": "mypage",
+  "name": "0xdanki",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "homepage": "https://0xdanki.github.io",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "author": {
-    "name": "Tin Erispe",
-    "email": "christineerispe@gmail.com",
+    "name": "0xDanki",
+    "email": "typepuller@gmail.com",
     "url": "https://github.com/0xDanki"
   },
   "dependencies": {
